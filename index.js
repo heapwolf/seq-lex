@@ -1,6 +1,6 @@
 module.exports = function(s) {
 
-  var zero = String.fromCharCode(0);
+  var zero = String.fromCharCode(33);
 
   if (typeof s == 'undefined') return zero;
 
