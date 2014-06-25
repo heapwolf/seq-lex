@@ -1,6 +1,9 @@
 # SYNOPSIS
 Creates or increments the value of a lexicographically sortable string
 
+# MOTIVATION
+Useful for creating sequential keys in leveldb
+
 # USAGE
 
 ```js
