@@ -4,7 +4,7 @@ module.exports = function(s) {
 
   if (typeof s == 'undefined') return zero;
 
-  s = (s || zero).split('');
+  s = s.split('');
   var last = s[s.length-1];
 
   if (last.charCodeAt(0) == 255) {
