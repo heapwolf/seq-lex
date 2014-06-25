@@ -1,6 +1,6 @@
 {
   "name": "seq-lex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates or increments the value of a lexicographically sortable string",
   "main": "index.js",
   "devDependencies": {
